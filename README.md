@@ -10,3 +10,9 @@ I am Swapnil, recently post graduate from Department of Computer Science, Univer
 Follow Me:
 [![forthebadge](https://img.shields.io/github/followers/SwapnilMadaan?label=GitHub&style=social)](https://github.com/SwapnilMadaan)
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
+<p align=center>
+<b>Connect Me Here</b> <br>
+<p>
+<a href="https://www.linkedin.com/in/swapnil-madaan-ducs/">LinkedIn</a> · <a href="mailto:swapnil.mca17.du@gmail.com">Email</a> · <a 
+</p>
+
