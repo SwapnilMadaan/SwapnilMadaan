@@ -1,5 +1,5 @@
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+I am Swapnil, recently post graduate from Department of Computer Science, University of Delhi. I have recently completed my internship from Housing.com as a Backend Developer and looking for full time opportunities in software engineer profile.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
