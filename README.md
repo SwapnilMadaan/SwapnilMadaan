@@ -7,11 +7,6 @@ I am Swapnil, recently post graduate from Department of Computer Science, Univer
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SwapnilMadaan)
 
-Follow Me:
+### Connect Me Here:
 [![forthebadge](https://img.shields.io/github/followers/SwapnilMadaan?label=GitHub&style=social)](https://github.com/SwapnilMadaan)
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<b>Connect Me Here</b> <br>
-<p>
-<a href="https://www.linkedin.com/in/swapnil-madaan-ducs/">LinkedIn</a> · <a href="mailto:swapnil.mca17.du@gmail.com">Email</a> · <a 
-</p>
-
+[[![forthebadge]<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white>](https://www.linkedin.com/in/swapnil-madaan-ducs)
