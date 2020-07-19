@@ -7,6 +7,6 @@ I am Swapnil, recently post graduate from Department of Computer Science, Univer
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SwapnilMadaan)
 
-### Connect Me Here:
+### Follow Me Here:
 [![forthebadge](https://img.shields.io/github/followers/SwapnilMadaan?label=GitHub&style=social)](https://github.com/SwapnilMadaan)
-[[![forthebadge]<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white>](https://www.linkedin.com/in/swapnil-madaan-ducs)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/swapnil-madaan-ducs)
