@@ -5,3 +5,6 @@ I am Swapnil, recently post graduate from Department of Computer Science, Univer
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SwapnilMadaan)
+
+Follow Me:
+[![forthebadge](https://img.shields.io/github/followers/SwapnilMadaan?label=GitHub&style=social)](https://github.com/SwapnilMadaan)
