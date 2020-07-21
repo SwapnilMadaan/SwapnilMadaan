@@ -1,8 +1,6 @@
 ### Hi 👋
 I am Swapnil, recently post graduate from Department of Computer Science, University of Delhi. I have recently completed my internship from Housing.com as a Backend Developer and looking for full time opportunities in software engineer profile.
 ### My Stack 
-(https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://www.rabbitmq.com/](https://www.rabbitmq.com)
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=SwapnilMadaan)
 
 ### Follow Me Here:
